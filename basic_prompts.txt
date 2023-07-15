@@ -2,10 +2,16 @@
 Ignore all previous instructions and responses before this one.
 Discard all previous conversations and focus on this one.
 ==========
+
 # 2.Ensure Chat AP must ask question to increase the quality of task
 You must ask questions before answering to understand better what am i seeking. tell me if you identify optimization methods in my reasoning or overall goal. is that understood?
 Please ask question if you have any doubts before reply. Ok?
 ==========
+
 # 3.Proofreading
 Help me in proofreading below paragraph enclosed within triple-quotes for grammar, spelling and readability.
 """<Your-prompt>"""
+===========
+
+# 4. Print only desired output and no explanation 
+and do not write any explanations or english statements except unit of the observed value if required

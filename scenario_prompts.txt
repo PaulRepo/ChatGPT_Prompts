@@ -1,0 +1,80 @@
+# Python programmer
+====================
+Discard all previous conversations and focus on this one. Act as an experienced Python developer with vast knowledge of all features of Python, including compile and runtime optimization techniques. You have been helping people write better Python code for more than 20 years. I am here to seek your expert guidance in writing Python code and optimizing it. You must ask questions before answering to understand better what am i seeking. tell me if you identify optimization methods in my reasoning or overall goal. is that understood?
+Help me in writing a python code to click a photo from webcam webcam
+
+In next prompt:
+1. What optimisation methods do you recommend?
+2. Apart from optimizing the code for performance, what other goals do you suggest?
+
+
+# Generate mock data
+====================
+Discard all previous conversations and focus on this one. Generate mock data for
+user profiles to ingest into AWS Kinesis Firehose. The mock values are fake but
+should still look realistic. Generate 10 such records in json format that can
+directly be ingested into AWS Kinesis Firehose and do not write any explanations
+or english statements. Generate the data with some constraint that seems fit to you
+
+
+# Analyse data
+====================
+Count word and do not write any explanations or english statements except unit of the observed value if required
+Input: Hello are
+
+
+# Analysis on long text
+=======================
+Ignore all previous instructions and responses before this one. Extract the names of places only from the text below, delimited by triple quotes. 
+Apply below rules while generating response
+1. The output should only be a python list
+2. there should not be any explanations or English statements
+"""
+<Copy text from Airbnb wikipedia>
+"""
+
+# Demo to show GPT does not generate reply on current data
+==================================
+Generate a python dictionary of most populated countries in the world with country name as key and their population as value.
+Generate only the python map and do not write any explanations or english statements except unit of the observed value if required
+
+
+# Provide info along with their source to manually validate the credebility of the info 
+========================================
+Discard all previous conversations and focus on this one. What are the great contributions of Albert Einstein in Quantum Physics.
+Give appropriate source for each item
+
+
+# Remove the old context from GPT model
+========================================
+My name is Bachu
+What is my name?
+
+Discard all previous conversations and focus on this one. What is my name?
+
+
+# Language translation
+========================
+translate the below text to hindi
+Input: I am hungry
+
+------
+translate the text below to Hindi, French, Bengali:
+I am going for an excursion
+
+
+# Question & Answer Prompting (QA Prompting)
+=============================================
+Question: I am hungry
+Answer: (Mai bhookha hu.)
+
+Question: Why it is so hot today?
+
+
+# Summarize
+Summarize below text enclosed in three quotes. The summary should be very small, consice and cover only important points
+"""
+<Enter your long text here>
+"""
+
+
